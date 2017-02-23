@@ -19,5 +19,5 @@ function changeToNight(){
         document.getElementById("moonspot2").className = "";
         document.getElementById("moonspot3").className = "";
     }
-    
+     
 }
